@@ -1,11 +1,5 @@
 # Data-Mining Practical
-Q1. Create a file “people.txt” with the following data:
-Age agegroup height status yearsmarried
-21 adult 6.0 single -1
-2 child 3 married 0
-18 adult 5.7 married 20
-221 elderly 5 widowed 2
-34 child -7 married 3
+Q1. Create a file “people.txt” with the following data: As given in People.txt file
 i) Read the data from the file “people.txt”.
 ii) Create a ruleset E that contain rules to check for the following conditions:
 -> The age should be in the range 0-150.
